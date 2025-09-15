@@ -5,7 +5,7 @@
 ## Демо
 
 Вы можете посмотреть работающую версию сайта по ссылке:
-[Посмотреть живую демонстрацию]([https://my-project.github.io](https://k1n9gg07.github.io/-contact-card/)
+[Посмотреть живую демонстрацию]((https://k1n9gg07.github.io/-contact-card/))
 
 ## Установка
 
